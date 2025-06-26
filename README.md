@@ -50,13 +50,29 @@ service.sendRequest(endpoint: myEndpoint) { (result: Result<MyModel, APIServiceE
 See the [networkframework.docc/networkframework.md](networkframework.docc/networkframework.md) for full API documentation.
 
 ## Packaging
-- To use as a Swift Package, add this repo as a dependency in Xcode or your `Package.swift`:
+
+### Swift Package Manager (Recommended)
+Add this repo as a dependency in Xcode or your `Package.swift`:
 
 ```swift
 .package(url: "https://github.com/avaneeshkawasthi/NetworkFramework.git", from: "1.0.0")
 ```
 
-- To use as an XCFramework, archive the framework in Xcode and distribute the generated `.xcframework`.
+Then add the dependency to your target:
+
+```swift
+dependencies: [
+    .product(name: "networkframework", package: "NetworkFramework")
+]
+```
+
+Or, in Xcode:
+- Go to File > Add Packages...
+- Enter the URL: https://github.com/avaneeshkawasthi/NetworkFramework.git
+- Select the version and add to your project.
+
+### XCFramework
+To use as an XCFramework, archive the framework in Xcode and distribute the generated `.xcframework`.
 
 ## 🤝 Contributions
 Have ideas or improvements? Feel free to submit issues or pull requests to help enhance NetworkFramework.
