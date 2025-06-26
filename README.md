@@ -58,15 +58,6 @@ See the [networkframework.docc/networkframework.md](networkframework.docc/networ
 
 - To use as an XCFramework, archive the framework in Xcode and distribute the generated `.xcframework`.
 
-## Further Improvements
-- Add more request customization (headers, body, etc.)
-- Add support for multipart/form-data
-- Add request/response logging
-- Add unit tests
-
-## 🛠️ Installation
-Add NetworkKit to your project using Swift Package Manager: [Project URL](https://github.com/yourusername/networkframework)
-
 ## 🤝 Contributions
 Have ideas or improvements? Feel free to submit issues or pull requests to help enhance NetworkKit.
 
