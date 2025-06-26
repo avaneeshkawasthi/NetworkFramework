@@ -53,7 +53,7 @@ See the [networkframework.docc/networkframework.md](networkframework.docc/networ
 - To use as a Swift Package, add this repo as a dependency in Xcode or your `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/yourusername/networkframework.git", from: "1.0.0")
+.package(url: "https://github.com/avaneeshkawasthi/NetworkFramework.git", from: "1.0.0")
 ```
 
 - To use as an XCFramework, archive the framework in Xcode and distribute the generated `.xcframework`.
