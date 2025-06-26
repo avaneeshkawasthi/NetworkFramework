@@ -59,7 +59,7 @@ See the [networkframework.docc/networkframework.md](networkframework.docc/networ
 - To use as an XCFramework, archive the framework in Xcode and distribute the generated `.xcframework`.
 
 ## 🤝 Contributions
-Have ideas or improvements? Feel free to submit issues or pull requests to help enhance NetworkKit.
+Have ideas or improvements? Feel free to submit issues or pull requests to help enhance NetworkFramework.
 
 ## 🔗 Connect with Me
 Stay updated on the latest features and releases by following me on [LinkedIn](https://www.linkedin.com/in/avaneesh-awasthi-10747659/)
