@@ -64,6 +64,15 @@ See the [networkframework.docc/networkframework.md](networkframework.docc/networ
 - Add request/response logging
 - Add unit tests
 
+## 🛠️ Installation
+Add NetworkKit to your project using Swift Package Manager: [Project URL](https://github.com/yourusername/networkframework)
+
+## 🤝 Contributions
+Have ideas or improvements? Feel free to submit issues or pull requests to help enhance NetworkKit.
+
+## 🔗 Connect with Me
+Stay updated on the latest features and releases by following me on [LinkedIn](https://www.linkedin.com/in/avaneesh-awasthi-10747659/)
+
 ---
 
-© 2025 Your Name. MIT License.
+© 2025 MIT License.

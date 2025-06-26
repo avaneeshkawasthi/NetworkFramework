@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/master.swiftdeps"
+  },
+  "/Users/apple/Documents/network Framework/networkframework/networkframework/EndPoint.swift": {
+    "dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/EndPoint.d",
+    "object": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/EndPoint.swift.o",
+    "swiftmodule": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/EndPoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/EndPoint.swiftdeps"
+  },
+  "/Users/apple/Documents/network Framework/networkframework/networkframework/HTTPMethod.swift": {
+    "dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/HTTPMethod.d",
+    "object": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/HTTPMethod.swift.o",
+    "swiftmodule": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/HTTPMethod.swiftdeps"
+  },
+  "/Users/apple/Documents/network Framework/networkframework/networkframework/NetworkError.swift": {
+    "dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkError.d",
+    "object": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkError.swift.o",
+    "swiftmodule": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkError~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkError.swiftdeps"
+  },
+  "/Users/apple/Documents/network Framework/networkframework/networkframework/NetworkRequest.swift": {
+    "dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkRequest.d",
+    "object": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkRequest.swift.o",
+    "swiftmodule": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkRequest.swiftdeps"
+  },
+  "/Users/apple/Documents/network Framework/networkframework/networkframework/NetworkService.swift": {
+    "dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkService.d",
+    "object": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkService.swift.o",
+    "swiftmodule": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkService~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/NetworkService.swiftdeps"
+  }
+}

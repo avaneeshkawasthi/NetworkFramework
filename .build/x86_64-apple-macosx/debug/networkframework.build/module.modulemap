@@ -1,0 +1,4 @@
+module networkframework {
+    header "/Users/apple/Documents/network Framework/networkframework/.build/x86_64-apple-macosx/debug/networkframework.build/networkframework-Swift.h"
+    requires objc
+}
